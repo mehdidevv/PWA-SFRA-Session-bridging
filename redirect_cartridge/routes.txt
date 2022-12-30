@@ -1,0 +1,10 @@
+{
+    "Home": "https://poc.viseo.com/",
+    "Product": "https://poc.viseo.com/product/[productid]",
+    "Category": "https://poc.viseo.com/category/[categoryid]",
+    "Search": "https://poc.viseo.com/search?q=[searchterms]",
+    "Account": "https://poc.viseo.com/account",
+    "Cart": "https://poc.viseo.com/cart",
+    "Login": "https://poc.viseo.com/login",
+    "Checkout": "/[locale]/checkout"
+}
